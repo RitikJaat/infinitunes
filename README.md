@@ -111,4 +111,4 @@ _Note: It may take up to 24h for the [contrib.rocks][contrib-rocks] plugin to up
 
 [api]: https://github.com/rajput-hemant/jiosaavn-api-ts
 [api-docs]: https://docs-jiosaavn.netlify.app/
-[cc]: https://github.com/rajput-hemant
+[cc]: https://github.com/RitikJaat
