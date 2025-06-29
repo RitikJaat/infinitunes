@@ -29,7 +29,7 @@
 - Fetch latest source code from master branch.
 
 ```
-git clone https://github.com/rajput-hemant/infinitunes
+git clone https://github.com/RitikJaat/infinitunes
 cd infinitunes
 ```
 
@@ -71,15 +71,7 @@ You can deploy your own hosted version of `infinitunes`. Just click the link bel
 
 #### [JioSaavn API (Unofficial)][api] by [me][cc], [API Docs][api-docs]
 
-## Star History
 
-<a href="https://star-history.com/#rajput-hemant/infinitunes">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=rajput-hemant/infinitunes&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=rajput-hemant/infinitunes" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=rajput-hemant/infinitunes" />
- </picture>
-</a>
 
 ## Disclaimer
 
